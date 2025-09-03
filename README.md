@@ -17,6 +17,10 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+My favorite applications are Gmail, Microsoft Outlook and Apple Music. I enjoy them because of the functionality they offer me, which enhances my life, plus all of them have beautiful interfaces which make great use of dark mode and colorful UI elements. 
+
+I would like to build an application that would enable students at my university to book tutoring appintments for their particular class. I'd keep it a simple list of introductory classes like math and essay writing.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
