@@ -1,2 +1,40 @@
-# codepath-ios101-prework
-A basic app that changes random background colors when the button is tapped
+# Prework - *Background color changer*
+
+Submitted by: **Saurabh Ghosh**
+
+**Background color changer** is an app that... changes its background color randomly when the button is tapped by the user
+
+Time spent: **5** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
+ 
+
+
+## App Brainstorming (Step 4)
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+I had to read over the background regarding what the commands mean in Swift multiple times before I found out the correct place to enter them. It was frustrating when my app kept showing error messages or undesirable behavior and I did not know how to troubleshoot. Finally I managed to crack the proverbial code.
+
+## License
+
+    Copyright [2025] [Saurabh Ghosh]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
